@@ -1,9 +1,19 @@
 # Worlds-Billionaires
-The Richest People in the World, yearly rank from 2002 to 2021
+***The Richest People in the World, yearly rank from 2002 to 2021***
 
-<div class='tableauPlaceholder' id='viz1638270640008' style='position: relative'><noscript><a href='#'><img alt='United States Story of Billionaires from 2002 to 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bi&#47;BillionairesStory_16382051825330&#47;USStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BillionairesStory_16382051825330&#47;USStory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bi&#47;BillionairesStory_16382051825330&#47;USStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+____
 
-<div class='tableauPlaceholder' id='viz1638270674258' style='position: relative'><noscript><a href='#'><img alt='United States Story of Billionaires from 2002 to 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KB&#47;KB4PZC2H2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;KB4PZC2H2' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KB&#47;KB4PZC2H2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+**Note**: This readme will guide you through the steps I took to complete this project
+____
+**Table of Contents**
+____
+I.	***Introduction***
 
-<div class='tableauPlaceholder' id='viz1638270712117' style='position: relative'><noscript><a href='#'><img alt='United States Story of Billionaires from 2002 to 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BK&#47;BKH6X4Q7J&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;BKH6X4Q7J' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BK&#47;BKH6X4Q7J&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
+II.	***Data Collection and Data Preprocessing***
+
+III. ***Exploratory Data Analysis***: 00.EDA.ipynb
+
+IV.	***Findings and Takeaways***
+____
+I.	***Introduction***
 
